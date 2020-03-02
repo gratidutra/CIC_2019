@@ -2,3 +2,4 @@
 Congresso de iniciação ciêntifica 2019
 
 --> "Grade_imagem" é um exemplo da documentation do package
+--> "ColLab" é uma script para paleta de cores 
