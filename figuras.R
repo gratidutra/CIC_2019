@@ -1,0 +1,5 @@
+tiff("Fig6a.tiff", height = 90, width = 90, units = 'mm', type="cairo", res=1000, compression = "lzw")
+par(oma=c(0,0,0,0))
+par(mar=c(2, 2, 0, 0))
+tpsgrid(cons_shapes$alg_tto, cons_shapes$alg_ato)
+dev.off()
